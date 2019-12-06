@@ -1,0 +1,6 @@
+{
+  "baseUrl" : "http://shuatiapi.xhkjedu.com/",
+  "baseImageUrl": "http://file.xhkjedu.com/",
+  "showImageUrl": "https://file.xhkjedu.com/static/",
+  "adminUrl": "http://shuatiadmin.xhkjedu.com"
+}
